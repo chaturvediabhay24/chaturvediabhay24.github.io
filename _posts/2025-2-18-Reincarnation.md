@@ -24,9 +24,9 @@ The metaphor illustrates that even though there is only one sun (Paramatma or un
 
 
 Metaphors:
-◦
-Bucket and Sun: The sun shining on many buckets of water represents Atma (universal consciousness) being reflected in many individual conscious beings (buckets with water, representing the sukshma sharira). When a bucket is empty (death), the sun (Atma) still shines on it, but there's no reflection because the water (sukshma sharira) is gone.
-◦
-Computer: The computer hardware (physical body) requires software (sukshma sharira) to be useful. Electricity (Atma) powers the computer, but without the software, the computer is lifeless.
-•
-Implications: While death seems like a loss, Vedanta teaches that Atma (true self) is eternal and unchanging. Suffering arises from identifying with the physical body and mind (stula and sukshma sharas). Self-inquiry, guided by Vedanta, can lead to the discovery of one's true nature as eternal consciousness, resulting in freedom (moksha) from suffering and false identification
+<p>◦
+Bucket and Sun: The sun shining on many buckets of water represents Atma (universal consciousness) being reflected in many individual conscious beings (buckets with water, representing the sukshma sharira). When a bucket is empty (death), the sun (Atma) still shines on it, but there's no reflection because the water (sukshma sharira) is gone.</p>
+<p>◦
+Computer: The computer hardware (physical body) requires software (sukshma sharira) to be useful. Electricity (Atma) powers the computer, but without the software, the computer is lifeless.</p>
+<p>•
+Implications: While death seems like a loss, Vedanta teaches that Atma (true self) is eternal and unchanging. Suffering arises from identifying with the physical body and mind (stula and sukshma sharas). Self-inquiry, guided by Vedanta, can lead to the discovery of one's true nature as eternal consciousness, resulting in freedom (moksha) from suffering and false identification</p>
