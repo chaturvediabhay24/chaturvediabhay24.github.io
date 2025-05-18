@@ -117,3 +117,24 @@ The "Playing Atari with Deep Reinforcement Learning" paper marked the beginning 
 This breakthrough has inspired numerous advances in AI research and practical applications, from gaming to robotics, trading, and autonomous vehicles. The core idea-teaching AI to learn from experience by maximizing rewards-continues to be a central approach in developing intelligent systems that can adapt to complex environments.
 
 <div style="text-align: center">⁂</div>
+
+[^1_1]: https://arxiv.org/abs/1312.5602
+
+[^1_2]: https://www.youtube.com/watch?v=hCeJeq8U0lo
+
+[^1_3]: https://www.numberanalytics.com/blog/complete-guide-dqn-basics
+
+[^1_4]: https://www.nature.com/articles/nature14236
+
+[^1_5]: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+
+[^1_6]: https://paperswithcode.com/method/dqn
+
+[^1_7]: https://www.youtube.com/watch?v=rFwQDDbYTm4
+
+[^1_8]: https://arxiv.org/abs/2112.04145
+
+[^1_9]: https://www.youtube.com/watch?v=H1NRNGiS8YU
+
+[^1_10]: https://www.slideshare.net/slideshow/dqn-deep-qnetwork/102816268
+
